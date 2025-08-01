@@ -1,4 +1,3 @@
-'''Cheack the TYPE of variable using INPUT()FUNCTION'''
+'''Check the TYPE of variable using INPUT()function - '''
 y=int(input("Enter a number: "))
-z=type(y)
-print(z)
+print(type(y))
