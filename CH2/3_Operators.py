@@ -43,7 +43,9 @@ and : 2 true = TRUE
 or  : 1 true = TRUE
 not : convert TRUE to FALSE or FALSE to TRUE
 
+
 .......................................ITS BASICALLY OPERATES ON BOOLEAN N WITH A SINGLE OPERANT .................................
 '''
 
-
+ # 5. MADULO OPERATOR {      %      }
+ # 6. EXPONETATIAL OPERATORS {      **        }
