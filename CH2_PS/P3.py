@@ -1,3 +1,3 @@
 '''Check the TYPE of variable using INPUT()function - '''
-y=int(input("Enter a number: "))
+y=input("Enter the value of y : ")
 print(type(y))
