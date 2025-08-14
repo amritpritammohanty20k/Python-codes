@@ -70,18 +70,18 @@ print("Hello".islower())  # Output: False
 # isupper(): Checks if all letters are uppercase
 print("HELLO".isupper())  # Output: True
 print("Hello".isupper())  # Output: False
-
+###################################################################
 # split(): Splits the string into parts using a space or character
 print(text.split())  # Output: ['Hello', 'World', '123!']
 print("a,b,c".split(","))  # Output: ['a', 'b', 'c']
-
+####################################################################
 # join(): Join list items into a string using a separator
 print("-".join(["a", "b", "c"]))  # Output: "a-b-c"
 
 # format(): Insert values into a string
 name = "amrit"
 age = 19
-print("My name is {} and I am {} years old".format(name, age))  # Output: My name is amrit and I am 19 years old
+print("My name is {} and I am {} years old".format(name, age))  # Output: My name is amri3t and I am 19 years old
 
 # f-string: Another way to insert variables 
 print(f"My name is {name} and I am {age} years old")  # Output: My name is amrit and I am 19 years old
