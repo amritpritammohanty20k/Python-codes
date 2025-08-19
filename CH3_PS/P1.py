@@ -1,8 +1,8 @@
-name=input("Enter the name : ")
-name1="good afternoon"
-print(name1)
-print(name)
 
-# 2nd try...
-name3=input("Enter the name : ")
-print(f"Good afternoon {name3}")
+# Print the name enterd by the user followed by Goodafternoon by using input()function
+
+ 
+name=input("Enter the name : ")
+print(f"Good afternoon! {name}")  
+
+# this is called [f string ] from top we can see its use.
