@@ -70,7 +70,10 @@ temp_list.append(4)          # Modify list
 mod_tuple = tuple(temp_list)  # Convert back to tuple
 print(mod_tuple)
 
-# 17. Nested tuples
-nested = ((1, 2), (3, 4), (5, 6))
-print(nested)
-print(nested[1][1])  # Output: 4
+# 17. A nested tuple (tuple inside another tuple)
+t2 = (1, (4, 5, 6), 2, (7, 8))
+
+print(t2[0])       # → 1 (first element)
+print(t2[1])       # → (4, 5, 6) (second element is a tuple)
+print(t2[1][2])    # → 6 (third element of the inner tuple)
+print(t2[3][0])    # → 7 (first element of the last inner tuple)
