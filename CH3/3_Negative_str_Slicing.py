@@ -1,3 +1,4 @@
+#Easy way to do this , covert this into positive . 
 name="Amrit"
 print(name[-4:-1])# start from the index -1 all the way till -4 ( excluding -1 / including -4 )
 
