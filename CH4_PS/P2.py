@@ -15,4 +15,5 @@ f6=input('Enter student mark: ')
 mark.append(f6) 
 f7=input('Enter student mark: ')
 mark.append(f7)
+mark.sort() # this prints mark in sorted manner .
 print(mark)
