@@ -14,7 +14,7 @@ print(t[1:4])
 # 4. Length - Total number of elements
 print(len(t))
 
-# 5. Concatenation/Addition - Combine two tuples
+''' 5. Concatenation/Addition - Combine two tuples'''
 t1 = (10, 20)
 t2 = (30, 40)
 combined = t1 + t2
