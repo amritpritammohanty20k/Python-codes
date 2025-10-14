@@ -1,4 +1,4 @@
-# Use count() to find how many times the value 2 appears
+# # Use count() to find how many times the value 2 appears
 a=(1,2,3,4,5,2,2,2,False,"Amrit")
 print(a)
 no=a.count(2)
