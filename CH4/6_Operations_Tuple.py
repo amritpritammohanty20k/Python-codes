@@ -56,7 +56,7 @@ numeric_tuple = (10, 20, 5, 40, 15)
 print( max(numeric_tuple))
 print(min(numeric_tuple))
 
-'''14. sum() - Add all numbers in tuple'''
+# 14. sum() - Add all numbers in tuple
 print(sum(numeric_tuple))
 
 # 15. sorted() - Returns a sorted list (does not change original tuple)
