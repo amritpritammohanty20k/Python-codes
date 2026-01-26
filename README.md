@@ -23,3 +23,15 @@ It focuses on learning and practicing fundamental concepts like loops, arrays (l
 
 ## Folder Structure
 
+PL-python-/
+
+├── loops.py # Loop-based programs
+├── conditionals.py # If-else and decision making
+├── arrays.py # List operations and problems
+├── strings.py # String manipulation programs
+├── functions.py # Function-based examples
+├── recursion.py # Recursive problem solutions
+├── patterns.py # Star and number patterns
+├── logic_problems.py # General logical problems
+└── README.md # Documentation
+
