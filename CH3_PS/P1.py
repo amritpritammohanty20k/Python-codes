@@ -6,3 +6,4 @@ name=input("Enter the name : ")
 print(f"Good afternoon! {name}")  
 
 # this is called [f string ] from top we can see its use.
+# (f string ) use as combaining the code-"input("Enter the name : ")" into {name} variable.
